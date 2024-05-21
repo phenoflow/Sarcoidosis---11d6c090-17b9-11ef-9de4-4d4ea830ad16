@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/sarcoidosis---primary.py
+inputModule3:
+  class: File
+  path: python/sarcoidosis-myositis---primary.py
+inputModule4:
+  class: File
+  path: python/sarcoidosis-lymph---primary.py
+inputModule5:
+  class: File
+  path: python/sarcoidosis-palsy---primary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
